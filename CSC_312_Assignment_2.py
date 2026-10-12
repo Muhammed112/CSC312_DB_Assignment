@@ -1,5 +1,11 @@
 #Team Name: Mo & co.
 #Student Numbers:
+# Muhammed Dawood   4397156
+# Maahir            4347706
+# Caleb Koopman     4347106
+# Yasin Patli       4428982
+# Ashwin Visage     4380023
+# Nathier Parton    4344733
 
 import getpass
 import mysql.connector
